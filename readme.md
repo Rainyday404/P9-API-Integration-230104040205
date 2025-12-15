@@ -3,7 +3,7 @@
 Project ini adalah implementasi **Backend Node.js Modular** untuk Praktikum #9 mata kuliah Web Service Engineering. Proyek ini mengintegrasikan dua API eksternal (REST Countries & OpenWeatherMap) dengan penerapan Caching, Logging, dan Dokumentasi Swagger.
 
 ## 👤 Author
-* **Name:** Hujan (Rain)
+* **Name:** Hujan (Rain) Ivan Dwika Bagaskara
 * **NIM:** 23104040205
 * **Role:** IT Student
 
