@@ -1,0 +1,17 @@
+{
+  "name": "P9-API-Integration-23104040205",
+  "version": "1.0.0",
+  "description": "Praktikum #9 Web Service Engineering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
